@@ -4,3 +4,5 @@
 
 把git 用于vs2012 需要下载git extensions 2.47 
 工具扩展中安装git source control provider
+
+ok
